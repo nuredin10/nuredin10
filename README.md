@@ -1,8 +1,16 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Nuredin Ibrahim</h1>
+<br />
+
+---
 
 <h2>Good to have you here. This is my Github profile!</h2>
+<br />
+
+---
+
 
 <h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/bitsumamo?tab=repositories](https://github.com/bitsumamo?tab=repositories)
@@ -28,6 +36,9 @@
 - 🔭 Check out my portfolio: [course]! -->
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
+<br />
+
+---
 
 ### Connect with me:
 
