@@ -23,9 +23,6 @@
 
 [![website](./img/globe-light.svg)](https://nuredinibrahim.netlify.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://nuredinibrahim.netlify.app#gh-dark-mode-only)
-<!-- &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/nuredin.10#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/nuredin.10#gh-dark-mode-only)
