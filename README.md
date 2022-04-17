@@ -1,6 +1,16 @@
-### Hi there, I'm Nuredin 👋 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Nuredin Ibrahim</h1>
+
+<h2>Good to have you here. This is my Github profile!</h2>
+
+<h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
 
 
+- 👨‍💻 All of my projects are available at [https://github.com/bitsumamo?tab=repositories](https://github.com/bitsumamo?tab=repositories)
+
+- 🔭 Visit My Portfolio [https://nuredinibrahim.netlify.app](https://nuredinibrahim.netlify.app)
+- 🌱 I’m currently learning everything
+- 🥅 2022 Goals: To contribute more to open source projects
+- 👯 I’m looking to collaborate with other content creators
 <!-- 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -9,13 +19,13 @@
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
  -->
-
+<!-- 
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To contribute more to open source projects
-- 🔭 Check out my portfolio: [course]!
+- 🔭 Check out my portfolio: [course]! -->
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
