@@ -43,9 +43,9 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/nuredin.10#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nuredin.10#gh-dark-mode-only)
 
-<br/>
----
+<br />
 
+---
 
 ### Languages and Tools:
 
@@ -67,7 +67,7 @@
 
 
 
-<h3 align="left"><b>⚡ My Development Statistics</b></h3>
+<h3 align="center"><b>⚡ My Development Statistics</b></h3>
 
 <p align="center">  
 <!-- GitHub Stats -->  
