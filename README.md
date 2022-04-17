@@ -1,16 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Nuredin Ibrahim</h1>
-<br />
 
----
 
 <h2>Good to have you here. This is my Github profile!</h2>
-<br />
-
----
-
 
 <h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
-
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/bitsumamo?tab=repositories](https://github.com/bitsumamo?tab=repositories)
@@ -42,8 +35,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://nuredinibrahim.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://nuredinibrahim.netlify.app#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://nuredinibrahim.netlify.app)
+[![website](./img/globe-dark.svg)](https://nuredinibrahim.netlify.app)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/nuredin.10#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/nuredin.10#gh-dark-mode-only)
@@ -54,7 +47,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/nuredin.10#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nuredin.10#gh-dark-mode-only)
 
-<br />
+
 
 ---
 
@@ -85,14 +78,14 @@
     <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bitsumamo&show_icons=true&hide_border=true" /> -->
     <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuredin10&layout=compact&theme=radical" />
     <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&layout=compact&theme=radical -->
-<!-- Most Used Languages -->  
+<!-- Most Used Languages -->  <br/>
     <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
     <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=nuredin10&layout=compact&theme=radical"/>
     <!-- https://github-readme-stats.vercel.app/api?username=bitsumamo&layout=compact&theme=radical -->
 </p>  
 
 
-[website]: https://codeSTACKr.com
+<!-- [website]: https://codeSTACKr.com
 [course]: http://nuredinibrahim.netlify.app
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
@@ -101,4 +94,4 @@
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
