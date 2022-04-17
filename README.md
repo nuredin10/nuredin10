@@ -6,7 +6,7 @@
 <h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/bitsumamo?tab=repositories](https://github.com/bitsumamo?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/nuredin10?tab=repositories](https://github.com/nuredin10?tab=repositories)
 
 - 🔭 Visit My Portfolio [https://nuredinibrahim.netlify.app](https://nuredinibrahim.netlify.app)
 - 🌱 I’m currently learning everything
@@ -35,8 +35,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://nuredinibrahim.netlify.app)
-[![website](./img/globe-dark.svg)](https://nuredinibrahim.netlify.app)
+[![website](./img/globe-light.svg)](https://nuredinibrahim.netlify.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://nuredinibrahim.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/nuredin.10#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/nuredin.10#gh-dark-mode-only)
@@ -63,7 +63,7 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br />
