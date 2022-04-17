@@ -43,6 +43,10 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/nuredin.10#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nuredin.10#gh-dark-mode-only)
 
+<br/>
+---
+
+
 ### Languages and Tools:
 
 
@@ -56,21 +60,25 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 
-<br />
 <br />
 
 ---
 
 
 
-  <summary>:zap: GitHub Stats</summary>
+<h3 align="left"><b>⚡ My Development Statistics</b></h3>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nuredin10&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+<p align="center">  
+<!-- GitHub Stats -->  
+    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bitsumamo&show_icons=true&hide_border=true" /> -->
+    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuredin10&layout=compact&theme=radical" />
+    <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&layout=compact&theme=radical -->
+<!-- Most Used Languages -->  
+    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=nuredin10&layout=compact&theme=radical"/>
+    <!-- https://github-readme-stats.vercel.app/api?username=bitsumamo&layout=compact&theme=radical -->
+</p>  
 
 
 [website]: https://codeSTACKr.com
