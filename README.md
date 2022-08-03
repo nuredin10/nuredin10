@@ -3,13 +3,12 @@
 
 <h2>Good to have you here. This is my Github profile!</h2>
 
-<h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
+<h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science and working at Versavvy Media PLC. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/nuredin10?tab=repositories](https://github.com/nuredin10?tab=repositories)
-
+- 👨‍💻 Most of my personal projects are available at [https://github.com/nuredin10?tab=repositories](https://github.com/nuredin10?tab=repositories)
 - 🔭 Visit My Portfolio [https://nuredinibrahim.netlify.app](https://nuredinibrahim.netlify.app)
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently working at Versavvy Media PLC
 - 🥅 2022 Goals: To contribute more to open source projects
 - 👯 I’m looking to collaborate with other content creators
 <!-- 
@@ -23,7 +22,7 @@
 <!-- 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently working at Versavvy Media PLC
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To contribute more to open source projects
 - 🔭 Check out my portfolio: [course]! -->
