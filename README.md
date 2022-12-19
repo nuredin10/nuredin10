@@ -78,3 +78,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nuredin10&show_icons=true&locale=en" alt="nuredin10" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nuredin10&" alt="nuredin10" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nuredin10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
