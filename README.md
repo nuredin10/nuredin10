@@ -71,7 +71,7 @@
 
 
 
-<h3 align="center"><b>⚡ My Development Statistics</b></h3>
+<h3 align="left"><b>⚡ My Development Statistics</b></h3>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuredin10&show_icons=true&locale=en&layout=compact" alt="nuredin10" /></p>
 <br/>
@@ -82,7 +82,6 @@
 
 ---
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nuredin10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3><b>🏆 GitHub Trophies</b></h3>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=nuredin10&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="nuredin10"/></p>
 
