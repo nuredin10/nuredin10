@@ -79,9 +79,10 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nuredin10&" alt="nuredin10" /></p>
 
+<br />
 
 ---
 
-<h3 style="margin-bottom:100px"><b>🏆 GitHub Trophies</b></h3>
+<h3><b>🏆 GitHub Trophies</b></h3>
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=nuredin10&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="nuredin10"/></p>
 
