@@ -83,6 +83,5 @@
 
 ---
 
-<h3><b>🏆 GitHub Trophies</b></h3>
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=nuredin10&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="nuredin10"/></p>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=nuredin10&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="nuredin10" style="padding-top:10px;"/></p>
 
