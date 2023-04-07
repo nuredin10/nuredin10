@@ -73,11 +73,10 @@
 
 <h3 align="left"><b>⚡ My Development Statistics</b></h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuredin10&show_icons=true&locale=en&layout=compact" alt="nuredin10" /></p>
-<br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nuredin10&show_icons=true&locale=en" alt="nuredin10" /></p>
+![](https://github-readme-stats.vercel.app/api?username=nuredin10&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nuredin10&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuredin10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nuredin10&" alt="nuredin10" /></p>
 
 <br />
 
