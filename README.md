@@ -3,11 +3,6 @@
 
 <h2>Good to have you here. This is my Github profile!</h2>
 
-<h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science and working at Versavvy Media PLC. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
-
-
-- 👨‍💻 Most of my personal projects are available at [https://github.com/nuredin10?tab=repositories](https://github.com/nuredin10?tab=repositories)
-- 🔭 Visit My Portfolio [https://nuredinibrahim.netlify.app](https://nuredinibrahim.netlify.app)
 - 🌱 I’m currently working at Versavvy Media PLC
 - 🥅 2022 Goals: To contribute more to open source projects
 - 👯 I’m looking to collaborate with other content creators
@@ -96,8 +91,10 @@
 
 <br />
 
-<!-- ---
-<p>Zxc zxc zxc zxc </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bitsumamo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=nuredin10&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="nuredin10"/></p>
- -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=bitsumamo&icon=0&color=11)](https://visitcount.itsvg.in)
