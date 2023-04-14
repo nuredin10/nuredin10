@@ -52,18 +52,34 @@
 
 ### Languages and Tools:
 
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<p>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-2088F2?style=flat-square&logo=css3&logoColor=white" />
+<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-2088F2?style=flat-square&logo=Javascript&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-Tailwindcss-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-149ECA?style=flat-square&logo=react&logoColor=white" />
+<img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="VueJs" src="https://img.shields.io/badge/-Vue-267E7C?style=flat-square&logo=vue.js&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-4D588E?style=flat-square&logo=php&logoColor=white" />
+<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E8392C?style=flat-square&logo=laravel&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-66B1F1?style=flat-square&logo=flutter&logoColor=white" />
+<h3>Databases</h3>
+<p>
+<img alt="mysql" src="https://img.shields.io/badge/-MySQL-4D588E?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="sqlite" src="https://img.shields.io/badge/-SQLite-4D588E?style=flat-square&logo=sqlite&logoColor=white" />
+<img alt="firebase" src="https://img.shields.io/badge/-Firebase-F29E12?style=flat-square&logo=firebase&logoColor=white" />
+</p>
+<h3>Tools</h3>
+<p>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
+<img alt="Vite" src="https://img.shields.io/badge/-Vite-8E6FFE?style=flat-square&logo=vite&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
 
 <br />
 
