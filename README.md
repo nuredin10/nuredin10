@@ -15,8 +15,8 @@
 [![website](./img/email-light.svg)](nuredinibrahim18@gmail.com#gh-light-mode-only)
 [![website](./img/email-dark.svg)](nuredinibrahim18@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/telegram-light.png)](https://t.me/nuredin10#gh-light-mode-only)
-[![website](./img/telegram-dark.png)](https://t.me/nuredin10#gh-dark-mode-only)
+[![website](./img/telegram-dark.png)](https://t.me/nuredin10#gh-light-mode-only)
+[![website](./img/telegram-light.png)](https://t.me/nuredin10#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/nuredin10#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nuredin10#gh-dark-mode-only)
