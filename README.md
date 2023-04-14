@@ -12,7 +12,7 @@
 
 ### Reach out to me:
 
-[![website](./img/email-dark.png)](mailto:nuredinibrahim18@gmail.com#gh-light-mode-only)
+<a href="mailto:nuredinibrahim18@gmail.com"><img src="./img/email-dark.png" alt="Email" /></a>
 [![website](./img/email-light.png)](mailto:nuredinibrahim18@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/telegram-dark.png)](https://t.me/nuredin10#gh-light-mode-only)
