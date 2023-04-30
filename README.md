@@ -3,6 +3,7 @@
 
 <h2>Good to have you here. This is my Github profile!</h2>
 
+- 💻 Visit my personal portfolio https://nuredinibrahim.vercel.app/
 - 🌱 I’m currently working at Versavvy Media PLC
 - 🥅 Goal: To contribute more to open source projects
 - 👯 I’m looking to collaborate more with creative developers
